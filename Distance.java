@@ -5,7 +5,7 @@ class Distance
     {
         Scanner sc=new Scanner(System.in);
 
-        System.out.println("Enter the distanc(In km)");
+        System.out.println("Enter the distance(In km)");
         double km=sc.nextDouble();
 
         double M=km*1000;
